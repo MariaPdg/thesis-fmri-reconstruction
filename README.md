@@ -1,1 +1,1 @@
-# thesis
+# thesis-fmri-reconstruction
