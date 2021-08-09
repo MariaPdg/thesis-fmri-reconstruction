@@ -1,6 +1,26 @@
 # Image reconstruction from human brain activity 
 #### Image reconstruction from human brain activity by variational autoencoding and adversarial learning
 
+Image reconstruction from human brain activity is one of the central problems in brain decoding
+towards reproducing mental content and exploring the human visual system contributing to the
+detection and prevention of visual diseases. For the past few years, significant achievements
+in the fields of functional Magnetic Reasoning Imaging (fMRI) and artificial intelligence (AI)
+facilitated researchers to explore the human brain on a new level. The problem of reconstruction
+from fMRI is characterized by two main challenges. On the one hand, there is a huge gap
+between visual and fMRI data domains. On the other hand, existing datasets provide only scarce
+image-fMRI pairs. Due to these two limitations, obtaining high-quality reconstructions from brain
+activity is still an open problem. The research objective of this thesis is to reconstruct natural
+visual stimuli from human brain activity recorded by fMRI. For this purpose, we implement
+the framework based on a variational autoencoder (VAE) and generative adversarial networks
+(GANs), which demonstrated promising results in reconstruction tasks in various domains. In
+order to overcome the challenges for image-fMRI domains, we use a 3-stage training procedure
+and apply the dataset, which includes more stimuli, in comparison to those used in previous
+studies. We study the VAE weakness connected with its latent space regularization and show
+that the Wasserstein autoencoder (WAE) is able to overcome this problem. We also train WAE
+with two discriminators and demonstrate the advantages of the obtained model, which is called
+WAE/Dual-GAN, in the image-to-image translation task.
+
+
 ## Requirements
 * Python 3.6.11
 * PyTorch 1.4.0
