@@ -276,18 +276,18 @@ From the thesis:
 
 ## References
 
-1. Beliy et al. - From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI, 2019 [github](https://github.com/WeizmannVision/ssfmri2im)
-2. Chang et al. -  BOLD5000, a public fMRI dataset while viewing 5000 visual images, 2019 [github](https://github.com/nchang430/BOLD5000-Scripts)
-3. Horikawa et al. - Generic decoding of seen and imagined objects using hierarchical visual features, 2015 [github](https://github.com/KamitaniLab/GenericObjectDecoding)
+1. Beliy et al. - From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI, 2019 [Link](https://github.com/WeizmannVision/ssfmri2im)
+2. Chang et al. -  BOLD5000, a public fMRI dataset while viewing 5000 visual images, 2019 [Link](https://github.com/nchang430/BOLD5000-Scripts)
+3. Horikawa et al. - Generic decoding of seen and imagined objects using hierarchical visual features, 2015 [Link](https://github.com/KamitaniLab/GenericObjectDecoding)
 4. Larsen et al. - Autoencoding beyond pixels using a learned similarity metric, 2016
 5. Mozafari et al. - Reconstructing Natural Scenes from fMRI Patterns using BigBiGAN, 2020
 6. Ren et al. - Reconstructing Perceived Images from Brain Activity by Visually-guided Cognitive Representation and Adversarial Learning, 2019
 7. Shen et al. - Deep image reconstruction from human brain activity, 2019
 8. Shen et al. - End-to-End Deep Image Reconstruction From Human Brain Activity, 2019
-9. Tolstikhin et al. - Wasserstein Auto-Encoders, 2019 [github](https://github.com/tolstikhin/wae)
+9. Tolstikhin et al. - Wasserstein Auto-Encoders, 2019 [Link](https://github.com/tolstikhin/wae)
 
 **Repositories:**
 
-1. BOLD5000 Data Aggregation https://git.hcics.simtech.uni-stuttgart.de/collaboration-projects/bold5000
-2. VAE/GAN: https://github.com/lucabergamini/VAEGAN-PYTORCH
-3. WAE/GAN: https://github.com/schelotto/Wasserstein-AutoEncoders
+1. BOLD5000 Data Aggregation: [Link](https://git.hcics.simtech.uni-stuttgart.de/collaboration-projects/bold5000)
+2. VAE/GAN: [Link](https://github.com/lucabergamini/VAEGAN-PYTORCH)
+3. WAE/GAN: [Link](https://github.com/schelotto/Wasserstein-AutoEncoders)
